@@ -18,7 +18,7 @@
     // ...
     "require": {
         // ...
-        "sharkpp/sculpin-calendarian-bundle": "@dev"
+        "sharkpp/sculpin-calendarian-bundle": "dev-master"
     }
 }
 ```
