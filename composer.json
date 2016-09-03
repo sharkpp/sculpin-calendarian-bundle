@@ -1,5 +1,6 @@
 {
     "name": "sharkpp/sculpin-calendarian-bundle",
+    "type": "sculpin-bundle",
     "description": "This is a Bundle that generates the index page to blog date directory for Sculpin.",
     "keywords": ["sculpin", "blog", "calender"],
     "license": "MIT",
